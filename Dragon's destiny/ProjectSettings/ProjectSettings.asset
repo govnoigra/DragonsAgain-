@@ -717,10 +717,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: ab18f4d2-718e-4f07-a41f-08396dc7d5fd
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: DragonDestiny
+  organizationId: helol228
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/campaign2.unity
     guid: 791ed7f30eabfe04f8cb7c722560cb35
+  - enabled: 1
+    path: Assets/Scenes/Setevoi.unity
+    guid: fa81b86244896a247ad83a981c310e93
   m_configObjects: {}
